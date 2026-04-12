@@ -12,7 +12,7 @@ A análise considera três dimensões principais:
 - Localização das escolas (urbana vs rural)
 - Diferenças regionais
 
-O estudo foi desenvolvido como um MVP (Minimum Viable Project), com foco em análise exploratória de dados, visualização da informação e pré-processamento.
+O estudo foi desenvolvido como um projeto MVP, com foco em análise exploratória de dados, visualização da informação e pré-processamento.
 
 ---
 
@@ -33,13 +33,19 @@ Investigar como fatores estruturais, como tipo de escola, localização e regiã
 
 ## Base de Dados
 
-Os dados utilizados são provenientes do SAEB (INEP), considerando os anos:
+Os dados utilizados são provenientes do Sistema de Avaliação da Educação Básica (SAEB), disponibilizado pelo INEP.
+
+Foram considerados os ciclos avaliativos dos anos:
 
 - 2017
 - 2019
 - 2021
 
-Foram utilizadas bases agregadas por Unidade Federativa (UF), contendo médias de proficiência em matemática.
+A escolha desse período se justifica pelo fato de que o SAEB é realizado a cada dois anos (anos ímpares). Além disso, o ciclo mais recente (2023) ainda se encontra em fase de consolidação e divulgação dos dados, não estando completamente disponível para análise.
+
+Outro ponto relevante é que o período selecionado (2017–2021) permite uma análise consistente do desempenho educacional em um intervalo majoritariamente anterior aos impactos mais severos da pandemia de COVID-19, evitando distorções significativas nos resultados.
+
+Dessa forma, a escolha dos dados busca garantir maior confiabilidade e comparabilidade nas análises realizadas.
 
 ---
 
@@ -105,6 +111,7 @@ Foram utilizadas bases agregadas por Unidade Federativa (UF), contendo médias d
 - Dados agregados (não permitem análise individual dos estudantes);
 - Ausência de variáveis diretas sobre formação docente;
 - Não é possível inferir causalidade, apenas associações.
+- O período analisado inclui o ano de 2021, que pode refletir parcialmente impactos da pandemia;
 
 ---
 
