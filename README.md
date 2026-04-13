@@ -1,3 +1,7 @@
+Notebook desenvolvido no Google Colab.
+Link direto para execução:
+https://colab.research.google.com/drive/1y_053Iep1JvzmleswiDLY_9NL0IwXR6o
+
 # Desigualdades no Desempenho em Matemática no Brasil
 
 ## Descrição do Projeto
