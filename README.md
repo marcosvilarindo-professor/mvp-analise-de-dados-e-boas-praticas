@@ -68,12 +68,12 @@ Dessa forma, a escolha dos dados busca garantir maior confiabilidade e comparabi
 
 ## Tecnologias Utilizadas
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Google Colab
+- 'Python'
+- 'Pandas'
+- 'NumPy'
+- 'Matplotlib'
+- 'Seaborn'
+- 'Google Colab'
 
 ---
 
