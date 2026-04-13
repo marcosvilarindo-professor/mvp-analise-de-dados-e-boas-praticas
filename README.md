@@ -2,7 +2,7 @@ Notebook desenvolvido no Google Colab.
 Link direto para execução:
 https://colab.research.google.com/drive/1y_053Iep1JvzmleswiDLY_9NL0IwXR6o
 
-# Desigualdades no Desempenho em Matemática no Brasil
+# Desigualdades no Desempenho de Matemática no Brasil
 
 ## Descrição do Projeto
 
@@ -66,7 +66,7 @@ Dessa forma, a escolha dos dados busca garantir maior confiabilidade e comparabi
 
 ---
 
-## Tecnologias Utilizadas
+## Bibliotecas Utilizadas
 
 - Python
 - Pandas
