@@ -72,7 +72,7 @@ Dessa forma, a escolha dos dados busca garantir maior confiabilidade e comparabi
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+- Sea born
 - Google Colab
 
 ---
